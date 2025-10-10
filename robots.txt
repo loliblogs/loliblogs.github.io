@@ -1,4 +1,6 @@
-User-agent: *
-Allow: /
 
-Sitemap: https://blog.lolifamily.js.org/sitemap.xml
+    User-agent: *
+    Allow: /
+
+    Sitemap: https://blog.lolifamily.js.org/sitemap-index.xml
+  
