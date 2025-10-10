@@ -1,0 +1,2 @@
+import{l as _}from"./preact.module.C1TiR6ni.js";var r=0;function o(o,e,n,f,u,i){e||(e={});var l,t,p=e;if("ref"in p)for(t in p={},e)"ref"==t?l=e[t]:p[t]=e[t];var v={type:o,props:p,key:n,ref:l,__k:null,__:null,__b:0,__e:null,__c:null,constructor:void 0,__v:--r,__i:-1,__u:0,__source:u,__self:i};if("function"==typeof o&&(l=o.defaultProps))for(t in l)void 0===p[t]&&(p[t]=l[t]);return _.vnode&&_.vnode(v),v}export{o as u};
+//# sourceMappingURL=jsxRuntime.module.Djg9GjJz.js.map
