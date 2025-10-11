@@ -6,7 +6,7 @@
       &lt;xsl:value-of select=&quot;rss/channel/title&quot; /&gt;
        
       - RSS Feed
-    </title><link rel="stylesheet" href="/_astro/global.C-xDVFgp.css"/></head> <body class="min-h-screen bg-surface font-sans leading-relaxed text-primary">  <nav class="
+    </title><link rel="stylesheet" href="/_astro/global.DsRH38ps.css"/></head> <body class="min-h-screen bg-surface font-sans leading-relaxed text-primary">  <nav class="
       fixed top-0 right-0 left-0 h-16 border-b border-line bg-surface-nav
     "> <div class="
         mx-auto flex h-full max-w-[var(--spacing-content-max)] items-center
