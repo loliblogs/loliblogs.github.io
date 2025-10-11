@@ -1,2 +1,0 @@
-import"./compat.module.tsE_fuxu.js";import{y as t}from"./hooks.module.sGwOz5s6.js";import"./preact.module.C1TiR6ni.js";function e({animationOld:e}){return t(()=>{document.addEventListener("astro:before-preparation",()=>{const t=document.getElementById("aside-inner"),o=document.getElementById("content");t?.classList.add(e),o?.classList.add(e)})},[]),null}export{e as default};
-//# sourceMappingURL=AstroTransition.BGdjw-Gc.js.map
