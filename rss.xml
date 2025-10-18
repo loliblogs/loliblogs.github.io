@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="/rss-styles.xsl" type="text/xsl"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>loli&apos;s diary</title><description>lolifamily&apos;s diary</description><link>https://blog.lolifamily.js.org</link><language>zh-CN</language><copyright>Copyright 2025</copyright><ttl>60</ttl><lastBuildDate>2025-10-18T03:24:25.271Z</lastBuildDate><item><title>中文 README</title><link>https://blog.lolifamily.js.org/post/README-zh.md</link><guid isPermaLink="true">https://blog.lolifamily.js.org/post/README-zh.md</guid><description>import Readme from &apos;@/../README-zh.md&apos;;
-
-&lt;Readme /&gt;</description><pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;./README.md&quot;&gt;English Version&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="/rss-styles.xsl" type="text/xsl"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>loli&apos;s diary</title><description>关于学习和生活的日记碎碎念，记录在各种实验和实践中的经历和思考，进行一些案例分析和分享</description><link>https://blog.lolifamily.js.org</link><language>zh-CN</language><copyright>Copyright 2025</copyright><ttl>60</ttl><lastBuildDate>2025-10-18T08:37:14.248Z</lastBuildDate><item><title>中文 README</title><link>https://blog.lolifamily.js.org/post/README-zh.md</link><guid isPermaLink="true">https://blog.lolifamily.js.org/post/README-zh.md</guid><description>Modern blog Chinese README</description><pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;./README.md&quot;&gt;English Version&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;refined-入门指南&quot;&gt;Refined 入门指南&lt;/h1&gt;
 &lt;p&gt;本项目使用 Astro 对优秀主题 &lt;a href=&quot;https://github.com/sanonz/hexo-theme-concise&quot;&gt;sanonz/hexo-theme-concise&lt;/a&gt; 进行再设计与精炼。致敬原作者，并在保持风格的同时适配 Astro 的内容集合与路由体系。&lt;/p&gt;
 
@@ -195,9 +193,7 @@
 &lt;li&gt;会显著增加复杂度且对日常价值不明确的 “过度工程化” 修改大概率会被拒绝。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;说明：以上条目为示例性而非穷举；范围包括 —— 但不限于 —— 这里列出的内容。&lt;/p&gt;
-&lt;p&gt;欢迎 bug 修复与小而聚焦的改进。对于较大的改动，请先开一个 Discussion 以确认方向契合度。若提案因项目理念或范围被拒，作者可能（视情况）提供相关文件 / 模块指引、高层方向或建议性编辑，帮助你自行实现；这是一种尽力而为的帮助而非义务。若当前方向无法满足你的需求，欢迎在 LICENSE 许可下 fork。&lt;/p&gt;</content:encoded><author>lolifamily</author></item><item><title>README</title><link>https://blog.lolifamily.js.org/post/README.md</link><guid isPermaLink="true">https://blog.lolifamily.js.org/post/README.md</guid><description>import Readme from &apos;@/../README.md&apos;;
-
-&lt;Readme /&gt;</description><pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;./README-zh.md&quot;&gt;中文 README&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;欢迎 bug 修复与小而聚焦的改进。对于较大的改动，请先开一个 Discussion 以确认方向契合度。若提案因项目理念或范围被拒，作者可能（视情况）提供相关文件 / 模块指引、高层方向或建议性编辑，帮助你自行实现；这是一种尽力而为的帮助而非义务。若当前方向无法满足你的需求，欢迎在 LICENSE 许可下 fork。&lt;/p&gt;</content:encoded><author>lolifamily</author></item><item><title>README</title><link>https://blog.lolifamily.js.org/post/README.md</link><guid isPermaLink="true">https://blog.lolifamily.js.org/post/README.md</guid><description>Modern blog README</description><pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;./README-zh.md&quot;&gt;中文 README&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;refined-starter-guide&quot;&gt;Refined Starter Guide&lt;/h1&gt;
 &lt;p&gt;This project refines and re-implements the excellent &lt;a href=&quot;https://github.com/sanonz/hexo-theme-concise&quot;&gt;sanonz/hexo-theme-concise&lt;/a&gt; with Astro. Credit to the original theme; ideas, structure and styles are adapted for Astro’s content collections and routing.&lt;/p&gt;
 
