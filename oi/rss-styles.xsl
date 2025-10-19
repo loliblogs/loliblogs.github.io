@@ -37,9 +37,9 @@
         text-muted
         hover:text-primary
       "> <span class="underline">Refined</span> </a> <span> <svg xmlns="http://www.w3.org/2000/svg" width="1rem" height="1rem" fill="currentColor" viewBox="0 0 256 256"><path d="M140,24V232a12,12,0,0,1-24,0V24a12,12,0,0,1,24,0Z"/></svg> </span>
-      <a href="https://icp.gov.moe/?keyword=20236898" target="_blank" class="
+      <a href="https://icp.gov.moe/?keyword=20252105" target="_blank" class="
         text-muted
         hover:text-primary
-      "><span class="underline">&#x840c;ICP&#x5907;20236898&#x53f7;</span></a> </div> </footer> </div> </main> </body></html>
+      "><span class="underline">&#x840c;ICP&#x5907;20252105&#x53f7;</span></a> </div> </footer> </div> </main> </body></html>
   </xsl:template>
 </xsl:stylesheet>
