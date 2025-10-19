@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="/rss-styles.xsl" type="text/xsl"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>loli&apos;s diary</title><description>关于学习和生活的日记碎碎念，记录在各种实验和实践中的经历和思考，进行一些案例分析和分享</description><link>https://blog.lolifamily.js.org</link><language>zh-CN</language><copyright>Copyright 2025</copyright><ttl>60</ttl><lastBuildDate>2025-10-19T12:36:51.127Z</lastBuildDate><item><title>中文 README</title><link>https://blog.lolifamily.js.org/post/README-zh.md</link><guid isPermaLink="true">https://blog.lolifamily.js.org/post/README-zh.md</guid><description>Modern blog Chinese README</description><pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;./README.md&quot;&gt;English Version&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="/rss-styles.xsl" type="text/xsl"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>loli&apos;s diary</title><description>关于学习和生活的日记碎碎念，记录在各种实验和实践中的经历和思考，进行一些案例分析和分享</description><link>https://blog.lolifamily.js.org</link><language>zh-CN</language><copyright>Copyright 2025</copyright><ttl>60</ttl><lastBuildDate>2025-10-19T12:59:16.947Z</lastBuildDate><item><title>中文 README</title><link>https://blog.lolifamily.js.org/post/README-zh.md</link><guid isPermaLink="true">https://blog.lolifamily.js.org/post/README-zh.md</guid><description>Modern blog Chinese README</description><pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;./README.md&quot;&gt;English Version&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;refined-入门指南&quot;&gt;Refined 入门指南&lt;/h1&gt;
 &lt;p&gt;本项目使用 Astro 对优秀主题 &lt;a href=&quot;https://github.com/sanonz/hexo-theme-concise&quot;&gt;sanonz/hexo-theme-concise&lt;/a&gt; 进行再设计与精炼。致敬原作者，并在保持风格的同时适配 Astro 的内容集合与路由体系。&lt;/p&gt;
 
@@ -4315,6 +4315,7 @@ x^2 &amp;#38; \text{if } x \geq 0 \\
 &lt;/section&gt;</content:encoded><author>lolifamily</author></item><item><title>欢迎来到我的博客</title><link>https://blog.lolifamily.js.org/post/welcome</link><guid isPermaLink="true">https://blog.lolifamily.js.org/post/welcome</guid><description>import PostLink from &apos;@/components/PostLink.astro&apos;;...</description><pubDate>Thu, 26 Apr 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Modern Blog 是一个基于 Astro 构建的现代化的博客系统。&lt;/p&gt;
 &lt;p&gt;常见链接:&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://lolifamily.js.org&quot;&gt;主页&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://github.com/loliblogs/Refined&quot;&gt;项目地址&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;/links&quot;&gt;友链&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;
