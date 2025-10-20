@@ -6,11 +6,10 @@
       &lt;xsl:value-of select=&quot;rss/channel/title&quot; /&gt;
        
       - RSS Feed
-    </title><link rel="stylesheet" href="/_astro/global.D4yUJFB1.css"/></head> <body class="min-h-screen bg-surface font-sans leading-relaxed text-primary">  <nav class="
+    </title><link rel="stylesheet" href="/_astro/global.DKnzku_F.css"/></head> <body class="min-h-screen bg-surface font-sans leading-relaxed text-primary">  <nav class="
       fixed top-0 right-0 left-0 h-16 border-b border-line bg-surface-nav
     "> <div class="
-        mx-auto flex h-full max-w-[var(--spacing-content-max)] items-center
-        justify-between px-4
+        mx-auto flex h-full max-w-content-max items-center justify-between px-4
       "> <a href="/" class="
             text-xl font-semibold transition-colors
             hover:text-red
@@ -19,7 +18,7 @@
               hover:text-red
             "> <xsl:attribute name="href"> <xsl:value-of select="rss/channel/link"/> </xsl:attribute>
 &#x8fd4;&#x56de;&#x535a;&#x5ba2;
-</a> </div> </div> </nav>  <main>  <div class="mx-auto max-w-[var(--spacing-content-max)] px-4 py-4 pt-20">  <div class="mb-4 rounded-lg bg-surface-aside p-6"> <h1 class="mb-3 text-2xl font-semibold text-primary"> <xsl:value-of select="rss/channel/title"/> </h1> <p class="mb-4 text-secondary"> <xsl:value-of select="rss/channel/description"/> </p> <div class="flex flex-col gap-2"> <p class="text-sm text-muted">&#x8ba2;&#x9605;&#x6b64; RSS Feed&#xff1a;</p> <div class="
+</a> </div> </div> </nav>  <main>  <div class="mx-auto max-w-content-max px-4 py-4 pt-20">  <div class="mb-4 rounded-lg bg-surface-aside p-6"> <h1 class="mb-3 text-2xl font-semibold text-primary"> <xsl:value-of select="rss/channel/title"/> </h1> <p class="mb-4 text-secondary"> <xsl:value-of select="rss/channel/description"/> </p> <div class="flex flex-col gap-2"> <p class="text-sm text-muted">&#x8ba2;&#x9605;&#x6b64; RSS Feed&#xff1a;</p> <div class="
               w-full cursor-text overflow-x-auto rounded bg-hover px-3 py-2
               font-mono text-sm select-all
             "> <xsl:value-of select="rss/channel/link"/> <span>/rss.xml</span> </div> </div> </div>  <div class="space-y-4"> <xsl:for-each select="rss/channel/item"> <article class="
