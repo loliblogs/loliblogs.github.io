@@ -2,7 +2,7 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:output method="html" encoding="UTF-8" indent="yes"/>
   <xsl:template match="/">
-<html lang="zh-CN" class="h-full scroll-smooth"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><title>RSS Feed</title><link rel="stylesheet" href="/_astro/global.CZb82prs.css"/></head> <body class="
+<html lang="zh-CN" class="h-full scroll-smooth"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><title>RSS Feed</title><link rel="stylesheet" href="/_astro/global.CCGNdcmq.css"/></head> <body class="
     min-h-viewport-height bg-surface font-sans leading-relaxed text-primary
   ">  <nav class="
       fixed inset-x-0 top-0 z-10 h-16 border-b border-soft bg-surface-nav
