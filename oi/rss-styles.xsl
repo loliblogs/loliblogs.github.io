@@ -2,7 +2,7 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:output method="html" encoding="UTF-8" indent="yes"/>
   <xsl:template match="/">
-<html lang="zh-CN" class="h-full scroll-smooth"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><title>RSS Feed</title><link rel="stylesheet" href="/_astro/global.pRh5sax-.css"/></head> <body class="
+<html lang="zh-CN" class="h-full scroll-smooth"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><title>RSS Feed</title><link rel="stylesheet" href="/_astro/global.DwQQ3IL8.css"/></head> <body class="
     min-h-viewport-height bg-surface font-sans leading-relaxed text-primary
   ">  <nav class="
       fixed inset-x-0 top-0 z-10 h-16 border-b border-soft bg-surface-nav
@@ -45,15 +45,15 @@
                 relative mb-3 flex flex-wrap gap-3 text-sm text-secondary
               "> <span> <xsl:value-of select="substring(pubDate, 1, 16)"/> </span> <xsl:if test="category"> <div class="flex flex-wrap gap-2"> <xsl:for-each select="category"> <span class="rounded-full bg-hover px-2 py-0.5 text-xs"> <xsl:value-of select="."/> </span> </xsl:for-each> </div> </xsl:if> </div> <p class="relative leading-relaxed text-secondary"> <xsl:value-of select="description"/> </p> </article> </xsl:for-each> </div> <footer class="
     mt-3 border-t border-line bg-surface pt-3 text-center text-xs text-muted
-  "> <div class="flex flex-wrap items-center justify-center gap-1"> <span class="flex items-center gap-1"> <svg fill="currentColor" viewBox="0 0 256 256" width="0.75rem" height="0.75rem"><path d="M128 24a104 104 0 1 0 104 104A104.11 104.11 0 0 0 128 24m0 192a88 88 0 1 1 88-88 88.1 88.1 0 0 1-88 88m-32-88a32 32 0 0 0 57.6 19.2 8 8 0 0 1 12.8 9.61 48 48 0 1 1 0-57.62 8 8 0 0 1-12.8 9.61A32 32 0 0 0 96 128"/></svg> <span>2026</span> <span>loli&apos;s OI log</span> </span> <span> <svg fill="currentColor" viewBox="0 0 256 256" width="1rem" height="1rem"><path d="M140 24v208a12 12 0 0 1-24 0V24a12 12 0 0 1 24 0"/></svg> </span> <a href="https://astro.build" target="_blank" rel="noopener" class="
+  "> <div class="flex flex-wrap items-center justify-center gap-1"> <span class="flex items-center gap-1"> <svg viewBox="0 0 256 256" fill="currentColor" width="0.75rem" height="0.75rem"><path d="M128,24A104,104,0,1,0,232,128,104.11,104.11,0,0,0,128,24Zm0,192a88,88,0,1,1,88-88A88.1,88.1,0,0,1,128,216ZM96,128a32,32,0,0,0,57.6,19.2,8,8,0,0,1,12.8,9.61,48,48,0,1,1,0-57.62,8,8,0,0,1-12.8,9.61A32,32,0,0,0,96,128Z"/></svg> <span>2026</span> <span>loli&apos;s OI log</span> </span> <span> <svg viewBox="0 0 256 256" fill="currentColor" width="1rem" height="1rem"><path d="M140,24V232a12,12,0,0,1-24,0V24a12,12,0,0,1,24,0Z"/></svg> </span> <a href="https://astro.build" target="_blank" rel="noopener" class="
         text-muted
         hover:text-primary
         forced-colors:hover:text-[Highlight]
-      "> <span class="underline">Astro</span> </a> <span><svg fill="currentColor" viewBox="0 0 256 256" width="0.75rem" height="0.75rem"><path d="M208.49 191.51a12 12 0 0 1-17 17L128 145l-63.51 63.49a12 12 0 0 1-17-17L111 128 47.51 64.49a12 12 0 0 1 17-17L128 111l63.51-63.52a12 12 0 0 1 17 17L145 128Z"/></svg></span> <a href="https://github.com/loliblogs/Refined" target="_blank" rel="noopener" class="
+      "> <span class="underline">Astro</span> </a> <span><svg viewBox="0 0 256 256" fill="currentColor" width="0.75rem" height="0.75rem"><path d="M208.49,191.51a12,12,0,0,1-17,17L128,145,64.49,208.49a12,12,0,0,1-17-17L111,128,47.51,64.49a12,12,0,0,1,17-17L128,111l63.51-63.52a12,12,0,0,1,17,17L145,128Z"/></svg></span> <a href="https://github.com/loliblogs/Refined" target="_blank" rel="noopener" class="
         text-muted
         hover:text-primary
         forced-colors:hover:text-[Highlight]
-      "> <span class="underline">Refined</span> </a> <span> <svg fill="currentColor" viewBox="0 0 256 256" width="1rem" height="1rem"><path d="M140 24v208a12 12 0 0 1-24 0V24a12 12 0 0 1 24 0"/></svg> </span>
+      "> <span class="underline">Refined</span> </a> <span> <svg viewBox="0 0 256 256" fill="currentColor" width="1rem" height="1rem"><path d="M140,24V232a12,12,0,0,1-24,0V24a12,12,0,0,1,24,0Z"/></svg> </span>
       <a href="https://icp.gov.moe/?keyword=20252105" target="_blank" class="
         text-muted
         hover:text-primary
