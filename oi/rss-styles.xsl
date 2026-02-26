@@ -2,7 +2,7 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:output method="html" encoding="UTF-8" indent="yes"/>
   <xsl:template match="/">
-<html lang="zh-CN" class="h-full scroll-smooth"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><title>RSS Feed</title><link rel="stylesheet" href="/_astro/global.DwQQ3IL8.css"/></head> <body class="
+<html lang="zh-CN" class="h-full scroll-smooth"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><title>RSS Feed</title><link rel="stylesheet" href="/_astro/global.CsNv-7q-.css"/></head> <body class="
     min-h-viewport-height bg-surface font-sans leading-relaxed text-primary
   ">  <nav class="
       fixed inset-x-0 top-0 z-10 h-16 border-b border-soft bg-surface-nav
@@ -54,9 +54,6 @@
         hover:text-primary
         forced-colors:hover:text-[Highlight]
       "> <span class="underline">Refined</span> </a> <span> <svg viewBox="0 0 256 256" fill="currentColor" width="1rem" height="1rem"><path d="M140,24V232a12,12,0,0,1-24,0V24a12,12,0,0,1,24,0Z"/></svg> </span>
-      <a href="https://icp.gov.moe/?keyword=20252105" target="_blank" class="
-        text-muted
-        hover:text-primary
-      "><span class="underline">&#x840c;ICP&#x5907;20252105&#x53f7;</span></a> </div> </footer> </div> </main> </body></html>
+      <a href="https://icp.gov.moe/?keyword=20252105" target="_blank" class="text-muted hover:text-primary"><span class="underline">&#x840c;ICP&#x5907;20252105&#x53f7;</span></a> </div> </footer> </div> </main> </body></html>
   </xsl:template>
 </xsl:stylesheet>
