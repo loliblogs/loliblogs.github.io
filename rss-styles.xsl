@@ -7,7 +7,7 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title><xsl:value-of select="rss/channel/title" /></title>
-        <link rel="stylesheet" href="/_astro/global.z7RWh3ap.css"/>
+        <link rel="stylesheet" href="/_astro/global.IztajzY_.css"/>
       </head>
     
       <body class="
